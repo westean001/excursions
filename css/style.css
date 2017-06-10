@@ -18,11 +18,9 @@ h5
  {
 font-family: Verdana;
 font-weight: 300;
-font-size: 32px;
+font-size: 42px;
 color: white;
 text-align: center;
-
-
 }
 
 p {
@@ -35,5 +33,15 @@ p {
 font-family: Verdana;
 color: aquamarine;
 font-size: 16px;
+}
 
+a:link,
+a:visited
+ {
+  color: aquamarine;
+}
+
+
+#copy {
+  text-align: right;
 }
